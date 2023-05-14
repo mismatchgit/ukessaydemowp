@@ -1,6 +1,8 @@
 <?php
 /**
  * The base configuration for WordPress
+ *  * The base configuration for WordPress
+
  *
  * The wp-config.php creation script uses this file during the installation.
  * You don't have to use the web site, you can copy this file to "wp-config.php"
@@ -17,7 +19,7 @@
  *
  * @package WordPress
  */
-
+ 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'test_db_wp' );
